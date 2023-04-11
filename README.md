@@ -1,1 +1,1 @@
-# Mern-Stack_Blog
+# Mern Stack Blog
